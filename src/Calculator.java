@@ -13,10 +13,8 @@ public class Calculator {
         System.out.println("3-Multiplication");
         System.out.println("4-Division");
         int c=sc.nextInt();
-        switch (c){
-            case 1: double d = a+b;
-                    System.out.println("Sum="+d);
+
         }
 
-}
+
 }
